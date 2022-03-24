@@ -1,4 +1,4 @@
-# FPGA---Fabric-Design-and-Architecture-Workshop
+# FPGA - Fabric, Design and Architecture Workshop
 
 ![](https://www.vlsisystemdesign.com/wp-content/uploads/2021/09/FPGA%20banner-2048x1024.png)
 

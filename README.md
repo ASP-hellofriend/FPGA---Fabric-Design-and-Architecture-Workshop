@@ -17,3 +17,13 @@ This is a 5-day Workshop, conduted by [VLSI System Design](https://www.vlsisyste
     - [Part 6: Introduction to PDK, specifications and pre-layout circuits](https://github.com/ASP-hellofriend/-sky130PLLdesignWorkshop/edit/main/README.md#part-6-introduction-to-pdk-specifications-and-pre-layout-circuits)
     - [Part 7: Circuit design simulation tool - Ngspice Setup](https://github.com/ASP-hellofriend/-sky130PLLdesignWorkshop/edit/main/README.md#part-7-circuit-design-simulation-tool---ngspice-setup)
     - [Part 8: Layout design tool - Magic Setup](https://github.com/ASP-hellofriend/-sky130PLLdesignWorkshop/edit/main/README.md#part-8-layout-design-tool---magic-setup)
+
+# Conclusion
+
+The 5-Day Workshop on FPGA - Fabric, Design and Architecture introduces its participants to the _________ , which is particularly important for students and professionals, who intend to pursue a career in _______ . The Workshop had a good balance between the theory and practicals. The lectures were short and informative and the labs were sufficiently challenging. The inclusion of assessments at the end was also a good for revision. The overall rigour and depth of the Workshop is highly appreciable.
+
+
+# Acknowledgement
+
+I would like to thank [Mr. Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/) and [VLSI System Design](https://www.vlsisystemdesign.com/) for providing me with the wonderful opportunity to attend this workshop, which helped me learn more about FPGAs and RISC-V.
+I would also like to thank our instructor, Dr. Nanditha Rao, for teaching us and also for sharing her [GitHub Repository](https://github.com/nandithaec/fpga_workshop_collaterals) which contained all the files and information required for the successful completion of this Workshop.
